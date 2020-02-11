@@ -1,0 +1,17 @@
+html {
+  background-color: #f1eeee;
+  
+    width: 100%;
+    height: 100%;
+  
+}
+
+body {
+  background-color: #f1eeee !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  margin: 0px;
+  padding: 0px;
+  height: 100%;
+  width: 100%;
+}
